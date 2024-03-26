@@ -1,0 +1,6 @@
+{
+  "token": "YOUR_DISCORD_BOT_TOKEN",
+  "prefix": "!",
+  "allowedRoles": ["Moderator", "Admin"],
+  "logChannelId": "YOUR_LOG_CHANNEL_ID"
+}
